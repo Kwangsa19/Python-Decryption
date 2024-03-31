@@ -98,7 +98,7 @@ The decrypted file is generated.
 
 ![chrome_TG0lIN3b1Q](https://github.com/Kwangsa19/Python-Encryption-Decryption/assets/135963482/f72ee00d-66e1-4baa-9e18-086237c963f9)
 
-* The code can be found on the Jupyter notebook titled Fernet - Symmetric 
+* The code can be found on the Jupyter notebook titled Fernet - Symmetric in `Fernet` folder. 
 
 ## 5. RSA - Asymmeteric 
 * On the hard drive, decrypt files with RSA (asymmetric encryption).
@@ -140,7 +140,7 @@ def run():
 
 ![chrome_KwDtbfbTTk](https://github.com/Kwangsa19/Python-Encryption-Decryption/assets/135963482/90da347a-5e91-4b14-92fa-9aaf527dab4a)
 
-* The code can be found on the Jupyter notebook titled RSA - Asymmetric
+* The code can be found on the Jupyter notebook titled RSA - Asymmetric in `RSA` folder. 
 
 ## Conclusion 
 This mini project shows how to decrypt simple encrypted files, including symmetric and asymmetric. 
