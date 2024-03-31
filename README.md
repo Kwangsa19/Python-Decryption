@@ -14,7 +14,7 @@ Instructions:
 ![chrome_YX3kvrlUH7](https://github.com/Kwangsa19/Python-Encryption-Decryption/assets/135963482/765680d1-0ed4-43af-abb0-212178609044)
 
 
-* The code can be found on Jupyter notebook titled "Decrypt - Remove (;)".
+* The code can be found on Jupyter notebook titled "Decrypt - Remove (;)" in `Decrypt` folder. 
 
 ## 2. Reverse 
 * Decrypt the reverse cipher with Python.
@@ -33,7 +33,7 @@ def reverse_text(message):
   
 ![chrome_bw7VlFywwm](https://github.com/Kwangsa19/Python-Encryption-Decryption/assets/135963482/03dbb56c-a862-4e79-a6f4-a3f60b2c35c2)
 
-* The code can be found on Jupyter notebook titled "Decrypt - Reverse".
+* The code can be found on Jupyter notebook titled "Decrypt - Reverse" in `Decrypt` folder. 
 
 ## 3. Decryption - Caesar
 * Decrypt the Caesar cipher with Python
@@ -71,7 +71,7 @@ And so on...
 
 ![chrome_z3XQsQusq8](https://github.com/Kwangsa19/Python-Encryption-Decryption/assets/135963482/b2b05cdb-f7d9-44ad-bc64-48c3b5138a29)
 
-* The code can be found on the Jupyter notebook titled "Decryption - Caesar".
+* The code can be found on the Jupyter notebook titled "Decryption - Caesar" in `Decrypt` folder. 
 
 ## 4. Fernet - Symmetric
 * On the hard drive, decrypt the files with Fernet (symmetric encryption)
