@@ -74,7 +74,7 @@ And so on...
 * The code can be found on the Jupyter notebook titled "Decryption - Caesar" in `Decrypt` folder. 
 
 ## 4. Fernet - Symmetric
-* On the hard drive, decrypt the files with Fernet (symmetric encryption)
+* On the hard drive, decrypt the files with Fernet (symmetric encryption).
 * Install `cryptography` and import `Fernet` if you have not. 
 * Use the following code:
 ```
