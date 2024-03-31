@@ -1,4 +1,4 @@
-# Python-Encryption-Decryption
+# Python-Decryption
 > This is inspired by [Imdad Ahad](https://imdad.codes). Please visit this Coursera [link](https://www.coursera.org/projects/decryption-with-python) to get started.
 > Encryption converts plaintext into ciphertext while decryption is the inverse process of encryption. 
 
